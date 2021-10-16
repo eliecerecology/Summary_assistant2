@@ -1,0 +1,13 @@
+Flask
+click
+pandas
+frontend
+tools
+fitz
+spacy
+boto3
+transformers
+matplotlib
+pymongo
+tensorflow
+openpyxl

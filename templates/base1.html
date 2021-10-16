@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}Summary text results{% endblock %}
+
+{% block content_1 %}
+
+<form action="#" method="post">
+    <p> Text extraction original: </p>
+	<ol>
+        <!-- For loop logic of jinja template -->
+        {%for i in range(0, 1)%} <!--ORIGINALLU (0,3) -->
+          
+            <li>{{text[i]}}</li>
+        {%endfor%}
+          
+        </ol>
+    <li class="nav-item">
+        <a  class="nav-link" href="#">Summary: </a> <!-- here the url --> 
+    </li>
+
+    <ol>
+        <!-- For loop logic of jinja template -->
+        {%for i in range(0, 1)%}  <!--ORIGINALLU (0,3) -->
+          
+            <li>{{text1[i]}}</li>
+        {%endfor%}
+          
+        </ol>
+    </form>
+
+
+    {% endblock %}
+  
+    
+    
+
