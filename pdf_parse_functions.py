@@ -1,6 +1,6 @@
 from operator import itemgetter
 import fitz
-import spacy
+#import spacy
 from collections import Counter
 import re
 

@@ -1,6 +1,6 @@
-# Summary_assistant solution for UNAIDS 
+# Summary_assistant solution for UNAIDS (Continuation)
 
-### Thesis project by Eliecer Diaz  👋
+### project initiated in May 2021 by Eliecer Diaz and katariina Mahkonen  👋
 
 ## I. Overview
 
